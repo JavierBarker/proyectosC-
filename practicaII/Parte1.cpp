@@ -28,22 +28,3 @@ int main(){
     return 0;
 }
 
-pair<boolean, string> resultado = validarTitulo(string titulo){
-
-    string textoConvertido;
-    if(titulo.length() == 0){
-        cout << "ERROR!! 🚨 DEBE INGRESAR EL TÍTULO DEL LIBRO! 🚨" << endl;
-        cout << endl;
-        return make_pair;
-    }
-
-    if(titulo.length() < 3){
-        cout << "ERROR!! 🚨 DEBE TENER POR LO MENOS 3 CARACTERES! 🚨" << endl;
-        cout << endl;
-        return make_pair;
-    }
-
-    
-    return make_pair;
-
-}

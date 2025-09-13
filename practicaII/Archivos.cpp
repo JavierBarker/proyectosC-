@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <windows.h>
 
 using namespace std;
 
@@ -147,6 +148,7 @@ public:
 };
 
 int main() {
+    SetConsoleOutputCP(CP_UTF8); // Habilitar UTF-8
     cout << "=== Ejemplo de Lectura y Escritura de Archivos en C++ ===" << endl << endl;
     
     // 1. Escribir texto simple

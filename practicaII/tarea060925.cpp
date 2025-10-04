@@ -92,9 +92,9 @@ public:
         return estudiantes;
     }
 
-    static float calcularPromedioEstudiante(){
+    // static float calcularPromedioEstudiante(){
 
-    }
+    // }
 };
 
 

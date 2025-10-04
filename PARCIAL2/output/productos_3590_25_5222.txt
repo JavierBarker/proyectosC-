@@ -1,0 +1,4 @@
+ID:101,Nombre:"Laptop",Precio:15000.0,Stock:3
+ID:102,Nombre:"Mouse",Precio:250.0,Stock:15
+ID:103,Nombre:"Teclado",Precio:800.0,Stock:8
+ID:104,Nombre:"Monitor",Precio:3500.0,Stock:2

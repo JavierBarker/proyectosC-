@@ -1,0 +1,5 @@
+Primera línea
+Segunda línea
+Tercera línea con números: 123
+Cuarta línea con caracteres especiales: áéíóú ñ
+Nueva línea agregada al final
